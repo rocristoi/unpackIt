@@ -82,7 +82,7 @@ const shortenURL = async (url) => {
 
     const encodedData = btoa(JSON.stringify(data));
 
-    const link = `https://unpackit.cristoi.ro/upack?data=${encodedData}`;
+    const link = `https://unpackit.cristoi.ro/unpack?data=${encodedData}`;
     
     const shortenedLink = await shortenURL(link);
 

@@ -16,7 +16,7 @@ function App() {
       </div>
       <Routes>
         <Route path="/" element={<GiftSender />} />
-        <Route path="/upack" element={<GiftReceiver />} />
+        <Route path="/unpack" element={<GiftReceiver />} />
       </Routes>
 
       <div className="flex flex-col items-center leading-tight mt-8 mb-4">
