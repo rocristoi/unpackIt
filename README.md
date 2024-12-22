@@ -1,4 +1,4 @@
-# ![Image](https://i.imgur.com/cqeNt5W.png)
+# ![Image](https://i.imgur.com/1hqEehD.png)
 
 **UnpackIt** is a simple frontend-only web application designed to let users send digital gifts to others. Built as part of a project for **HighSeas**, the app allows users to create personalized gift messages and send them in a fun and interactive way, with a unique URL generated for each gift.
 
